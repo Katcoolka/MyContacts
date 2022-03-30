@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Katka</first_name>
+	<last_name>Novak</last_name>
+	<phone_number>654786</phone_number>
+	<notes>new notes</notes>
+</contact>
+<contact>
+	<first_name>Rudo</first_name>
+	<last_name>Balaz</last_name>
+	<phone_number>789456</phone_number>
+	<notes>domov</notes>
+</contact>
+<contact>
+	<first_name>Faust</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>741852</phone_number>
+	<notes>red</notes>
+</contact>
+</contacts>
